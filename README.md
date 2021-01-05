@@ -36,7 +36,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 
 ## Features
 
-| NFQ BOT       |                Feature           |
+| VVIP BOT       |                Feature           |
 | :-----------: | :--------------------------------: |
 |       ✅       | Sticker CreatoR                  |
 |       ✅       | Kick Grup                        |
