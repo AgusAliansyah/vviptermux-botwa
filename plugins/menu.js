@@ -43,12 +43,12 @@ Rec: ~Agus Aliansyah
 [kode login jika ada / kosongin]
 Jangan Lupa Scan QR
 
-*「 Advanced 」*
-> return m 'javascript eval' + m.sender
+
+
 
 =======*「 INFO 」*=======
-Coded using *Vim* on Android \\w Termux
-by *@AgusAliansyah*
+group: https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj
+
 
 OwNer:
 *Wa.me/6289613469459*
